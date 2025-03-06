@@ -1,0 +1,19 @@
+{
+  "name": "Z-Library Finder",
+  "description": "Access Z-Library in just one click. Our extension will redirect you to an available library website in seconds.",
+  "version": "1.4",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "images/icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "support@z-lib.do"
+    }
+  },
+  "icons": {
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  }
+}
