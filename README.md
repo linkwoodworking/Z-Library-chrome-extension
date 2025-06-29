@@ -18,12 +18,22 @@
 
 以下是当前可用的 Z-Library 域名：
 
-- https://singlelogin.re
-- https://z-library.rs
-- https://z-library.do
-- https://z-lib.gs
+- https://z-library.sk
 - https://z-lib.gd
-- https://z-lib.do
 - https://z-lib.fm
+- https://z-lib.gd
+- https://z-lib.by
 
 点击扩展程序图标即可自动访问可用的域名。
+
+## 安全警告
+
+请警惕以下假冒 Z-Library 的钓鱼网站，它们可能会窃取您的账号信息：
+
+- zlibrary.to
+- zlibrary.st
+- z-lib.is
+- z-lib.io
+- z-lib.id
+
+请务必只使用上述官方认可的域名。

@@ -2,13 +2,11 @@ $(() => {
     const supportEmail = 'support@z-lib.do'
     const domains = {
         staticList: [
-            'https://singlelogin.re',
-            'https://z-library.rs',
-            'https://z-library.do',
-            'https://z-lib.gs',
+            'https://z-library.sk',
             'https://z-lib.gd',
-            'https://z-lib.do',
             'https://z-lib.fm',
+            'https://z-lib.gd',
+            'https://z-lib.by'
         ],
         getLastAvailableDomain: () => {
             return chrome.storage.local.get(['availableDomain']).then(result => result.availableDomain);
